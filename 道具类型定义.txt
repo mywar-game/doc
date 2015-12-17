@@ -1,0 +1,14 @@
+MONEY             1 //钱
+GOLD              2 //金币
+Exp               3 //经验
+Hero              4 //英雄
+HeroSkill         5 //英雄技能
+Power             6 //体力
+Activity          7 //活力
+prestige          8 //声望
+honour            9 //荣誉
+tool              10 //道具
+packExtendTimes   11  //背包扩展次数
+equip             12  //装备
+Level             13  //用户等级 即团队等级
+PrestigeLevel     14  //声望等级
